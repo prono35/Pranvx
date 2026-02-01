@@ -29,7 +29,10 @@ export const config = {
     // Displayed below your name. Use direct image URLs.
     customBadges: [
         "https://cdn.discordapp.com/attachments/1415236213853651048/1467490259771068457/icons8-discord-bug-hunter-badge-48.png?ex=6980924e&is=697f40ce&hm=0c039f30a745b601f4509f4c0931e6954930936083145aba0f92857bd28833d7&",
-        "https://cdn.discordapp.com/attachments/1415236213853651048/1467490260102545488/icons8-discord-staff-badge-48.png?ex=6980924e&is=697f40ce&hm=122deda2d993e74a8a1ddb386e35dd1f726d58f74301ee05c5cb9808c5b2dcd6&",
+        "https://icons8.com/icon/0vJNjSJWpHy7/discord-active-developer-badge",
+        "https://icons8.com/icon/Ln7pCdhGRrN9/dsicord-hypesquad-brilliance-house-badge",
+        "https://emoji.gg/emoji/99057-orbs-discord",
+        "https://emoji.gg/emoji/66366-completed-a-quest",
     ],
     badgeStyle: {
         size: 24, // Size in pixels
@@ -42,7 +45,7 @@ export const config = {
     socials: [
         { 
             label: "discord", 
-            iconUrl: "https://img.icons8.com/?size=100&id=114902&format=png&color=000000", 
+            iconUrl: "https://icons8.comundefined", 
             href: "https://discord.gg/hDaU6UrFyg" 
         },
         // Add more links as needed
