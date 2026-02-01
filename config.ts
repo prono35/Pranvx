@@ -29,10 +29,10 @@ export const config = {
     // Displayed below your name. Use direct image URLs.
     customBadges: [
         "https://cdn.discordapp.com/attachments/1415236213853651048/1467490259771068457/icons8-discord-bug-hunter-badge-48.png?ex=6980924e&is=697f40ce&hm=0c039f30a745b601f4509f4c0931e6954930936083145aba0f92857bd28833d7&",
-        "https://icons8.com/icon/0vJNjSJWpHy7/discord-active-developer-badge",
-        "https://icons8.com/icon/Ln7pCdhGRrN9/dsicord-hypesquad-brilliance-house-badge",
-        "https://emoji.gg/emoji/99057-orbs-discord",
-        "https://emoji.gg/emoji/66366-completed-a-quest",
+        "https://cdn.discordapp.com/attachments/1420000951158177814/1467513884611969197/icons8-discord-active-developer-badge-48.png?ex=6980a84f&is=697f56cf&hm=f59a52afc9634c174a8f5cf5414a59fd717a12eb6e03289dc47b37acc3f474b8&65996acc4a2b175de1cd38ab771f30d5574608499085bfd&",
+        "https://cdn.discordapp.com/attachments/1420000951158177814/1467513884339343401/icons8-dsicord-hypesquad-brilliance-house-badge-48.png?ex=6980a84f&is=697f56cf&hm=2db223352845f289865996acc4a2b175de1cd38ab771f30d5574608499085bfd&",
+        "https://cdn.discordapp.com/attachments/1420000951158177814/1467514271075406040/99057-orbs-discord.png?ex=6980a8ab&is=697f572b&hm=24f4e1dc20ab4a045e1ce20fe8896a1e55aef7237c7112fa6168e59e3937e7b2&",
+        "https://cdn.discordapp.com/attachments/1420000951158177814/1467514429620097024/66366-completed-a-quest.png?ex=6980a8d1&is=697f5751&hm=811b11f9e71fa952c4baca34a32dec35333729daa02509aff70b4047e0fb2478&",
     ],
     badgeStyle: {
         size: 24, // Size in pixels
