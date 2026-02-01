@@ -54,6 +54,6 @@ export const config = {
     // Background Settings
     background: {
         type: "video", // Options: 'video' or 'image'
-        url: "https://pin.it/6B8ociwGK", // Direct link to image or video
+        url: "n.discordapp.com/attachments/1270624795549106227/1467429113856917584/youtube-RFY9RALv5XE.mp4?ex=6980595c&is=697f07dc&hm=db7727b033cc9af3dfed85a2fabb5fa87636e239631bf2f44e34a8547bc8f5c5&", // Direct link to image or video
     },
 };
